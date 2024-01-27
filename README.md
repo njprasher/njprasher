@@ -105,7 +105,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{njprasher}/count.svg" /></p> 
+<br></div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=njprasher&show_icons=true&locale=en&layout=compact" alt="njprasher" /></p>
 
